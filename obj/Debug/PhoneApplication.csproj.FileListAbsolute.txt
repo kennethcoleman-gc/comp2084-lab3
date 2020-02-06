@@ -73,3 +73,9 @@ C:\Users\neo2\source\repos\PhoneApplication\obj\Debug\PhoneApplication.csprojAss
 C:\Users\neo2\source\repos\PhoneApplication\obj\Debug\PhoneApplication.csproj.CopyComplete
 C:\Users\neo2\source\repos\PhoneApplication\obj\Debug\PhoneApplication.dll
 C:\Users\neo2\source\repos\PhoneApplication\obj\Debug\PhoneApplication.pdb
+C:\Users\neo2\source\repos\PhoneApplication\bin\EntityFramework.dll
+C:\Users\neo2\source\repos\PhoneApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\neo2\source\repos\PhoneApplication\bin\EntityFramework.xml
+C:\Users\neo2\source\repos\PhoneApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\neo2\source\repos\PhoneApplication\obj\Debug\PhoneApplication.Migrations.Migration.resources
+C:\Users\neo2\source\repos\PhoneApplication\obj\Debug\PhoneApplication.csproj.GenerateResource.cache
